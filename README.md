@@ -1,6 +1,7 @@
 # CDU_HIT140_group63_Assessment2
 Group contribution:
-REF:
+
+Preferences:
 
 Beers, B 2023, P-Value: what it is, how to calculate it, and why it matters, https://www.investopedia.com/terms/p/p-value.asp
 
