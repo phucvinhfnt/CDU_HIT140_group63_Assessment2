@@ -52,7 +52,7 @@ BUILD AND EVALUATE A LINEAR REGRESSION MODEL
 # 3 LINEAR REGRESSION
 
 
-def train_and_evaluate_linear_regression(dataframe, test_size=0, random_state=None):
+def train_and_evaluate_linear_regression(dataframe, test_size=0, random_state=42):
     """
     # Split dataset into 50%,60%,70%,80% training and 50%,40%,30%,20% test sets, respectively
     # Note: other % split can be used.
@@ -144,7 +144,7 @@ print("Performance Metrics of motor:")
 print(motor_results_df)
 print("Motor Model of Motor")
 print (motor_model_df)
-# motor_model_df.to_csv("Motor model.csv")
+motor_model_df.to_csv("Motor model.csv")
 print("\nPredictions of Motor:")
 print(motor_predictions_df)
 # 
@@ -178,7 +178,7 @@ print(total_results_df)
 # total_results_df.T.to_csv('total_result.csv')
 print("Motor Model of Total")
 print (total_model_df)
-# total_model_df.T.to_csv('total_model.csv')
+total_model_df.T.to_csv('total_model.csv')
 print("\nPredictions of Total:")
 print(total_predictions_df)
 # total_predictions_df.T.to_csv('Total_Prediction.csv')

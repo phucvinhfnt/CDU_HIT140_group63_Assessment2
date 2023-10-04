@@ -196,5 +196,7 @@ def train_and_evaluate_linear_regression(dataframe, test_size=0, random_state=No
 # Iterating the model with different test_size in a loop and output the results
 print("Motor UPDRS result:")
 result_motor_com = train_and_evaluate_linear_regression(train_test_1,test_size=test_size1)
+print(result_motor_com)
 print("Total UPDRS result:")
 result_total_com = train_and_evaluate_linear_regression(train_test_2,test_size=test_size2)
+print(result_total_com)

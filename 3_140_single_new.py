@@ -10,7 +10,7 @@ from scipy.stats import kstest
 from sklearn import metrics
 import math
 #0 INPUT DATA
-df_po2 = pd.read_csv("C:/Users/phucv/OneDrive/Máy tính/foundation of data science/140_final_new/140_final_new/po2_data.csv")
+df_po2 = pd.read_csv("po2_data.csv")
 # Reorder columns of df_po2
 df_po2_columns = [
     'subject#', 'motor_updrs','total_updrs', 'age', 'sex', 'test_time',

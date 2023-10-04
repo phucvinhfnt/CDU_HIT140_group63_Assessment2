@@ -118,24 +118,3 @@ def check_normality(data, alpha=0.05):
 # using function to check the normal distribution
 Check_normal_distribution = check_normality(po2_df)
 
-# Checking the distribution between Y= motor_updrs and 16 independent variables
-
-# def scatterplot_matrix(dataframe):
-#     y_column_index = 1
-#     x_columns = dataframe.columns[2:]
-#     num_x_columns = dataframe.shape[1] - 2
-#     num_x_columns = len(x_columns)
-#     num_rows = (num_x_columns - 1) // 4 + 1
-#     num_cols = min(num_x_columns, 4)
-#     plt.figure(figsize=(12, 10))
-#     for i, x_column in enumerate(x_columns):
-#         plt.subplot(num_rows, num_cols, i + 1)
-#         x = dataframe[x_column]
-#         y = dataframe.iloc[:, y_column_index]
-#         plt.scatter(x, y)
-#         plt.xlabel(x_column)
-#         plt.ylabel(dataframe.columns[y_column_index])
-#     plt.tight_layout()
-#     plt.show()
-# scatterplot_matrix(motor_up_df)
-# scatterplot_matrix(total_up_df)

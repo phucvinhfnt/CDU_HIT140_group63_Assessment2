@@ -87,7 +87,7 @@ Stan_po2_df = standardize_features(df_po2)
 print(Stan_po2_df)
 
 
-columns_his = Stan_po2_df.columns[0::]  
+columns_his = Stan_po2_df.columns[1::]  
 # print(columns_his)
 num_columns = len(columns_his)
 plt.figure(figsize=(12, 10))
