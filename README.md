@@ -1,8 +1,12 @@
 # CDU_HIT140_group63_Assessment2
-Group contribution:
 
-Preferences:
+**Contributors:**
+Khai Quang Thang
+Sandria Thaisin
+Vinh Ho
+Yi Liang
 
+**Preferences:**
 Beers, B 2023, P-Value: what it is, how to calculate it, and why it matters, https://www.investopedia.com/terms/p/p-value.asp
 
 Biswajit Das 2021, “Automated objective speech markers for differential diagnosis between Parkinson’s disease and atypical parkinsonian disorders”, ResearchGate
@@ -14,5 +18,8 @@ Little, M.A., McSharry Patrick, Roberts, S.J, Costello D.A, & Moroz I.M 2007, �
 Little M. A, McSharry Patrick, Hunter Eric, Spielman Jennifer & Ramig Lorraine 2009, “Suitability of dysphonia measurements for telemonitoring of Parkinson's disease”, IEEE Trans Biomed Eng, 56(4):1015. doi: 10.1109/TBME.2008.2005954. PMID: 21399744; PMCID: PMC3051371.
 
 Parkinson, n.d. Who has Parkinson's?,https://www.parkinson.org/understanding-parkinsons/statistics
+
+**Email:**
+ [Contact us for more information](mailto:phucvinhfnt@gmail.com)
 
 
